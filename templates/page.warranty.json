@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "image_with_text_overlay_eJK9dU": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_4pgHbC": {
+          "type": "heading",
+          "settings": {
+            "text": "Dowinx Warranty",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_J86E63": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dowinx chairs are designed and certified for safety and durability. At the same time, we also provide adequate guarantees for your purchase You can find our warranties policies below.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4pgHbC",
+        "richtext_J86E63"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/warranty_1_1.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#1a1a1a",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "downix_warranty_form_iwABM4": {
+      "type": "downix-warranty-form",
+      "settings": {}
+    },
+    "rich_text_JVpjx4": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_ychMj8": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>Dowinx Warranty Statement<\/h2><h5><strong>The Warranty period is one year after delivery：<\/strong><\/h5><p>Note: This Limited Warranty is valid only for chairs that you bought through authorised channels. Our authorised channels are the websites that are registered by the Dowinx group of companies and any store registered in the name of a Dowinx entity on online marketplaces (Amazon, Flipkart, etc). Regretfully, we can't determine the authenticity of the original condition of products sold through other channels. Hence, we can't provide warranty service for those products.<\/p><h5><strong>What our limited warranty does not covers:<\/strong><\/h5><p>Dowinx’s warranty commitments do not cover claims resulting from:<\/p><ul><li>Wear and tear, or due to the ageing of materials.<\/li><li>Minor deviations of the Products from images posted in the Stores or due to naturally occurring variations in the materials used or manual assembly of Products.<\/li><li>Minor deviations of the Products from images posted in the Stores or due to naturally occurring variations in the materials used or manual assembly of Products.<\/li><li>Minor deviations of the Products from images posted in the Stores or due to naturally occurring variations in the materials used or manual assembly of Products.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_ychMj8"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_eJK9dU",
+    "downix_warranty_form_iwABM4",
+    "rich_text_JVpjx4"
+  ]
+}

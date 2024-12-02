@@ -1,0 +1,1339 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dowinx_banner_-_1_3x_41de08e8-8f4e-48f4-8df7-dfe505802a79.png",
+            "mobile_image": "shopify:\/\/shop_images\/homepage_banner_2_-_mobile.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/collections\/all",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "#fefefe",
+            "background_gradient": ""
+          }
+        },
+        "image_Lbynra": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dowinx_website_banner-2_3x_b64da9b7-8194-49db-99fb-0019d31084f8.png",
+            "mobile_image": "shopify:\/\/shop_images\/homepage_banner_1_-_mobile.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/collections\/new-series",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "#fefefe",
+            "background_gradient": ""
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dowinx_banner_-3_3x_9dd60d30-b1cd-45ed-904a-22550d5ba538.png",
+            "mobile_image": "shopify:\/\/shop_images\/homepage_banner_3-_mobile.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "shopify:\/\/collections\/table",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "#fefefe",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "image_Lbynra",
+        "slide-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
+      }
+    },
+    "image-link-blocks": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "1664424046b00c932c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_f923d737-d555-40a5-8723-18f0adcc35b0.jpg",
+            "stretch_image": true,
+            "link_text": "Simple Series",
+            "link_url": "shopify:\/\/products\/dowinx-simple-series-6657d-green",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retro-series.webp",
+            "stretch_image": true,
+            "link_text": "Retro Series",
+            "link_url": "shopify:\/\/products\/dowinx-classic-series-6657a-brown",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/racing-series-6658.webp",
+            "stretch_image": true,
+            "link_text": "Racing Series",
+            "link_url": "shopify:\/\/products\/heavy-duty-series-mb30-black-pu",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "1664424046b00c932c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cute-series.webp",
+            "stretch_image": true,
+            "link_text": "Super Cute Series",
+            "link_url": "",
+            "background": "",
+            "text_color": "#fefefe",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "1664424046b00c932c-0",
+        "1664424046b00c932c-1",
+        "1664424046b00c932c-2",
+        "1664424046b00c932c-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "text": "Mastery is a never-ending exploration",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": "#9f160d",
+        "text_gradient": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "4d-armrest",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6RqqmV": {
+          "type": "collection",
+          "settings": {
+            "collection": "linked-armrest",
+            "image": "shopify:\/\/shop_images\/2_88f5ca23-265f-411d-a688-9b5947dfae77.jpg",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "new-series",
+            "image": "shopify:\/\/shop_images\/3_4bea5eb1-2800-4eaf-baf2-186ff71fd24b.jpg",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_VWRXLP": {
+          "type": "collection",
+          "settings": {
+            "collection": "table",
+            "image": "shopify:\/\/shop_images\/4_6ac43a7e-b0a7-41c0-acfa-fba3dd59175e.jpg",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h5",
+            "text_position": "place-self-end-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection_6RqqmV",
+        "collection-3",
+        "collection_VWRXLP"
+      ],
+      "settings": {
+        "full_width": false,
+        "stack_collections": false,
+        "collections_per_row_mobile": "1",
+        "collections_per_row": 4,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection List",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [],
+        "full_width": false,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 3,
+        "products_per_row_mobile": "1",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Best Sellers",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "MW08",
+            "subheading": "A leap forward in sound and design",
+            "content": "<p>Crafted from ceramic and stainless steel, the MW08 wireless earbuds features Hybrid Active Noise-Cancellation, a streamlined form designed for comfort, and a new wind-reducing talk solution with 6 microphones.<\/p>",
+            "button_text": "Show Support",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_link_blocks_HyWAVG": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_cMekmD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800.webp",
+            "stretch_image": true,
+            "link_text": "@projecttrill",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_EEMYqV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800-8.webp",
+            "stretch_image": true,
+            "link_text": "@datascientist.py",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_MapJP9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800-4.webp",
+            "stretch_image": true,
+            "link_text": "@lozzielozer",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_CAiRfr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800-3.webp",
+            "stretch_image": true,
+            "link_text": "@alicia_therapistbae",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_ti3KEt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800-6_200x_10c0c71d-7710-4ef7-87e4-2480b663b381.jpg",
+            "stretch_image": true,
+            "link_text": "@glitchy_rogue",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_RB4JQi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800-7.webp",
+            "stretch_image": true,
+            "link_text": "@kayleens_coffee",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_bjUqYK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/800-5.webp",
+            "stretch_image": true,
+            "link_text": "@mylittlelakes",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BipiHA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/customer_200x_0ad15381-fb5d-4e0f-80e9-ef67071168c9.jpg",
+            "stretch_image": true,
+            "link_text": "@mariinsito.gmer",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_cMekmD",
+        "item_EEMYqV",
+        "item_MapJP9",
+        "item_CAiRfr",
+        "item_ti3KEt",
+        "item_RB4JQi",
+        "item_bjUqYK",
+        "item_BipiHA"
+      ],
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "Real Customers, Real Stories",
+        "content": "<p>Trusted by Customers Worldwide<\/p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "slideshow_e6ywXa": {
+      "type": "slideshow",
+      "blocks": {
+        "video_WXhxaV": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/5fce4d00665e4f2990701c9c5873c28d.mp4",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_XXHMLG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6658-banner-_1_1_1024x1024_crop_center_da2b2c2b-d9a1-471f-86df-94039af277f9.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_eeYipr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6689-9_1024x1024_crop_center_d51c582d-01dc-4efd-94c1-79c3fb9f7689.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_WXhxaV",
+        "image_XXHMLG",
+        "image_eeYipr"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "video_rUtR9d": {
+          "type": "video",
+          "disabled": true,
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/5fce4d00665e4f2990701c9c5873c28d.mp4",
+            "external_video_url": "",
+            "show_video_controls": false,
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_xXTLWp": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Promote your products",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MB38-F_16_1024x1024_crop_center_e0a2117c-47ef-4349-9700-055d3f159f9f.webp",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "shopify:\/\/collections\/new-series",
+            "link_text": "Fabric series",
+            "mobile_text_position": "place-self-end-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#1a1a1a",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6658-banner-_1_1_1024x1024_crop_center_da2b2c2b-d9a1-471f-86df-94039af277f9.webp",
+            "title": "",
+            "heading_tag": "h6",
+            "link_url": "shopify:\/\/collections\/4d-armrest",
+            "link_text": "4D Armrest Series",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-end-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#ffffff",
+            "button_text_color": "#1a1a1a",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "video_rUtR9d",
+        "image_xXTLWp",
+        "item-2",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "reduce_width": false,
+        "desktop_row_height": 290,
+        "mobile_row_height": 150,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h5"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "disabled": true,
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "color",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#9f160d",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#000000",
+            "payment_button_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "full_width": false,
+        "product": "dowinx-premium-leather-gaming-chair-with-massage-cushion-and-footrest-office-chair-for-study-table-adjustable-swivel-chair-with-lumbar-support-headrest-ergonomic-design-for-office-or-gaming",
+        "desktop_media_width": 60,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "thumbnails",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "before_after_image_HJxWBC": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Perfectly Suited For Both Play And Work",
+        "content": "<p>Our gaming chairs provide exceptional comfort for both gaming and work. They enhance the gaming experience while ensuring office workers stay comfortable. Paired with adjustable desks, they create a setup that smoothly transitions between gaming and daily tasks.<\/p>",
+        "before_image": "shopify:\/\/shop_images\/work.jpg",
+        "after_image": "shopify:\/\/shop_images\/game.jpg",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "WORK",
+        "after_text": "PLAY",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "hot_spots_MFJf6a": {
+      "type": "hot-spots",
+      "blocks": {
+        "item_dpjRca": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 40,
+            "vertical_position": 16,
+            "horizontal_position_mobile": 24,
+            "vertical_position_mobile": 70,
+            "icon_width": 20,
+            "title": "Massaging Lumbar Pillow",
+            "content": "<p>Relieve back pain with a built-in massaging lumbar pillow, perfect for keeping you aligned and supported.<\/p>"
+          }
+        },
+        "item_btiCGQ": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 20,
+            "vertical_position": 35,
+            "horizontal_position_mobile": 30,
+            "vertical_position_mobile": 30,
+            "icon_width": 20,
+            "title": "Automatic Armrest Support",
+            "content": "<p>Linkage armrests adjust as you recline, providing constant support and reducing shoulder strain.<\/p>"
+          }
+        },
+        "item_6LkmdJ": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 55,
+            "vertical_position": 17,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Multi-Position Recline with Footrest",
+            "content": "<p>Enjoy adjustable recline (90°-135°) and a retractable footrest for ultimate comfort whether gaming, working, or relaxing.<\/p>"
+          }
+        },
+        "item_iM7CFL": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 69,
+            "vertical_position": 58,
+            "horizontal_position_mobile": 83,
+            "vertical_position_mobile": 75,
+            "icon_width": 20,
+            "title": "360° Swivel & Adjustable Height",
+            "content": "<p>Move freely and adjust the chair height to suit your needs with full swivel and easy height adjustment.<\/p>"
+          }
+        },
+        "item_rhYXgG": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 52,
+            "vertical_position": 45,
+            "horizontal_position_mobile": 65,
+            "vertical_position_mobile": 23,
+            "icon_width": 32,
+            "title": "Ultimate Ergonomic Support",
+            "content": "<p>The chair’s ergonomic shape mimics the body’s natural curve, reducing fatigue and keeping you comfortable for long hours.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_dpjRca",
+        "item_btiCGQ",
+        "item_6LkmdJ",
+        "item_iM7CFL",
+        "item_rhYXgG"
+      ],
+      "settings": {
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/6658-banner-_1_1_1024x1024_crop_center_da2b2c2b-d9a1-471f-86df-94039af277f9.webp",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "multiple_images_with_text_JzcMbQ": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_3WdFMe": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_18.jpg",
+            "image_rotation_degrees": 12,
+            "subheading": "",
+            "title": "",
+            "content": "<h3>Thousands of Tests for Unmatched Quality<\/h3><p>With a team of dedicated R&D experts and a cutting-edge lab, DOWINX rigorously tests and refines every detail. Our focus on craftsmanship, functionality, and materials ensures every chair delivers unmatched quality and the ultimate gaming experience.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_EXHXBq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_16.jpg",
+            "image_rotation_degrees": 15,
+            "subheading": "",
+            "title": "",
+            "content": "<h3>Game-Changer for Ergonomic Comfort<\/h3><p>Dowinx has been committing to developing a multi-tasking chair that makes it easy for you to sit for a long time or take a break when you are tired. With that as a goal, we have been focusing on making chairs for about 15 years.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_nfjwbp": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_18.jpg",
+            "image_rotation_degrees": 15,
+            "subheading": "",
+            "title": "",
+            "content": "<h3>We're Here for You - 24\/7 Support<\/h3><p>We love hearing from our customers. Whether it's a question, a concern, or just a quick hello, don’t hesitate to reach out. We’re here to make your experience with Dowinx as smooth and enjoyable as possible.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_3WdFMe",
+        "item_EXHXBq",
+        "item_nfjwbp"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "impact_text_zx9pBM": {
+      "type": "impact-text",
+      "blocks": {
+        "item_RNkVx8": {
+          "type": "item",
+          "settings": {
+            "title": "50,000+",
+            "subheading": "Happy Customers",
+            "content": "<p>Trusted by gamers and professionals worldwide.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 1.7
+          }
+        },
+        "item_gg4TAj": {
+          "type": "item",
+          "settings": {
+            "title": "400,000+",
+            "subheading": "Hours\/Day",
+            "content": "<p>Delivering Comfort Every Day!<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 1.7
+          }
+        },
+        "item_FH3JnX": {
+          "type": "item",
+          "settings": {
+            "title": "4.8\/5",
+            "subheading": "Rating",
+            "content": "<p>Rated highly by users for comfort and durability.<\/p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_RNkVx8",
+        "item_gg4TAj",
+        "item_FH3JnX"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "line",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(133deg, rgba(235, 34, 34, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(225, 37, 37, 1) 79%)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "slideshow_BA9DXM": {
+      "type": "slideshow",
+      "blocks": {
+        "image_zVWAw6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fa1e583b-5fe9-4fc7-89ff-8d405ba7b0d2.__CR0_0_2928_1200_PT0_SX1464_V1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_wTADxW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1797652b-49d2-41b2-b14b-aaa231100199.__CR0_0_2928_1200_PT0_SX1464_V1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_MVeRtV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b6eee696-8084-4acd-abe0-f615e999d7f2.__CR0_0_2928_1200_PT0_SX1464_V1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_jJXVky": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e6b31a37-df67-4d2f-861a-7e8586e88eed.__CR0_0_2928_1200_PT0_SX1464_V1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_qUTW9q": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/67c82e13-464c-4b7d-b2b2-eaa3309701c1.__CR0_0_2928_1200_PT0_SX1464_V1.jpg",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_zVWAw6",
+        "image_wTADxW",
+        "image_MVeRtV",
+        "image_jJXVky",
+        "image_qUTW9q"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": true,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
+    "multi_column_itrGdq": {
+      "type": "multi-column",
+      "blocks": {
+        "item_pb8P9g": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Customers love us ❤️",
+            "heading_tag": "h5",
+            "content": "<p>With over 1 million satisfied customers across the world, our chairs are designed with you in mind. Every detail, from material to ergonomics, is crafted to elevate your gaming and office experience.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        },
+        "item_MbHByP": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "4.5+ Star Rating ⭐",
+            "heading_tag": "h5",
+            "content": "<p>Trusted by thousands, Dowinx chairs consistently receive 4.5+ star ratings across major platforms. Our commitment to quality and customer satisfaction has made us the go-to choice for gaming and office chairs.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        },
+        "item_Pp99jN": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Built to Last 🪑",
+            "heading_tag": "h5",
+            "content": "<p>Our chairs are crafted with high-quality materials and rigorous testing to ensure durability and longevity. With Dowinx, you're investing in a chair that’s built to support you through countless hours of gaming or work.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        },
+        "item_Yaa84Y": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Comfortable all day 🤗",
+            "heading_tag": "h5",
+            "content": "<p>Our ergonomic chairs are built for maximum comfort. Featuring lumbar support, adjustable headrests, and a sturdy build, Dowinx chairs provide the perfect blend of style and support, helping you stay focused and comfortable all day.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "button",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_pb8P9g",
+        "item_MbHByP",
+        "item_Pp99jN",
+        "item_Yaa84Y"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Why Choose us?",
+        "content": "<p>Dowinx gaming chairs provide exceptional comfort for both gaming and work. They enhance the gaming experience while ensuring office workers stay comfortable. Paired with adjustable desks, they create a setup that smoothly transitions between gaming and daily tasks.<\/p>",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "radial-gradient(rgba(247, 197, 204, 1) 100%)",
+        "text_color": "#1a1a1a"
+      }
+    },
+    "testimonials_K6VH94": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_LU9pYr": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/testimonial3_e00e69ae-aaca-439c-9cc0-6df06a963719.jpg",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Fira",
+            "title": "Comfortable and relaxing!",
+            "content": "<p>This chair is extremely comfortable and was easy to assemble. The footrest is a good length and the seat is wide enough for me, which is a problem I've been having with other chairs. Its sturdy, the lumbar support is great And the recline is smooth.<\/p>"
+          }
+        },
+        "testimonial_H9n3QQ": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/testimonial1.jpg",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Jesper Sukaiu",
+            "title": "Exactly like the photos!",
+            "content": "<p>It was super easy to assemble, and it's super comfortable, the accessories are so cute, I absolutely love this chair! It's very well built, fairly sized, super mobile, support is great, the adjustability is awesome along with the sup port, it performs very well in use<\/p>"
+          }
+        },
+        "testimonial_kEdX6X": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/testimonial4.jpg",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Miki",
+            "title": "High quality for a lower price!",
+            "content": "<p>I was skeptical of the quality when i saw the price, but it’s a high quality chair. the material is soft and smooth, has great reclining and footrest, and is super cute!! It was also fairly easy to put together. I highly suggest this!<\/p>"
+          }
+        },
+        "testimonial_QMG3ej": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/testimonial2.jpg",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Charles Ray Cannon Jr",
+            "title": "Great Chair",
+            "content": "<p>Ive had quite a few chairs in my sneaker studio and I myst say this was the best Ive had so far. I love the recline and foot rest on this chair alot. Ive used the massage cushion a few times which is also a good part of the chair! May purchase another for the new space!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_LU9pYr",
+        "testimonial_H9n3QQ",
+        "testimonial_kEdX6X",
+        "testimonial_QMG3ej"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Customer Reviews",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
+      }
+    },
+    "blog_posts_39BcPL": {
+      "type": "blog-posts",
+      "blocks": {
+        "blog_YKFemW": {
+          "type": "blog",
+          "settings": {
+            "blog": "news",
+            "posts_count": 3,
+            "stack_items": false
+          }
+        }
+      },
+      "block_order": [
+        "blog_YKFemW"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_excerpt": true,
+        "show_date": true,
+        "show_author": true,
+        "show_comments_count": false,
+        "show_category": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "image-link-blocks",
+    "scrolling-text",
+    "collection-list",
+    "featured-collection",
+    "impact-text",
+    "image_link_blocks_HyWAVG",
+    "slideshow_e6ywXa",
+    "media-grid",
+    "featured-product",
+    "before_after_image_HJxWBC",
+    "hot_spots_MFJf6a",
+    "multiple_images_with_text_JzcMbQ",
+    "impact_text_zx9pBM",
+    "slideshow_BA9DXM",
+    "multi_column_itrGdq",
+    "testimonials_K6VH94",
+    "blog_posts_39BcPL"
+  ]
+}

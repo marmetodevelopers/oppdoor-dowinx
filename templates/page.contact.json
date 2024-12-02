@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "image_with_text_overlay_iim47m": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_8pPJeh": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Contact Us",
+            "heading_tag": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8pPJeh"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify:\/\/shop_images\/7c2bd2d2-439a-44e5-b404-a2f7d6b5bf55._SL5000_CR0_0_5000_1000_SX3000.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "contact": {
+      "type": "contact",
+      "blocks": {
+        "text_irGkHg": {
+          "type": "text",
+          "settings": {
+            "title": "Mobile no",
+            "use_long_text": false,
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "text_irGkHg"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "We're here to assist you",
+        "content": "<p>Have a question about Dowinx Gaming Chairs? Just reach out and we'll get back to you shortly.<\/p><p><strong>Support Email<\/strong>: <a href=\"mailto:support@dowinx.co.in\">support@dowinx.co.in<\/a><\/p><p><strong>Phone No<\/strong>: 8086228807<\/p><p><strong>Company Address India<\/strong>: Urban Vault 1515, 19th Main Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560034<\/p>",
+        "text_position": "start",
+        "contact_form_size": "large",
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "#ffffff",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_iim47m",
+    "contact"
+  ]
+}

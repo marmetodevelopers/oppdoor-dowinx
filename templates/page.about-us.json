@@ -1,0 +1,602 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "slideshow_RJKTGH": {
+      "type": "slideshow",
+      "blocks": {
+        "video_F4eJYN": {
+          "type": "video",
+          "settings": {
+            "video": "shopify:\/\/files\/videos\/video - desktop .mp4",
+            "content_max_width": 600,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "#f0f0f0",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_F4eJYN"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#ffffff",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_w3paRL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KeBXKa": {
+          "type": "heading",
+          "settings": {
+            "text": "We Are The Official Dowinx Store in India.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_EwxnUC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Dowinx.co.in is our only official store in India. Here you can enjoy greater discounts, faster shipping, and more convenient after-sales service.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KeBXKa",
+        "richtext_EwxnUC"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "media_with_text_hqYQzz": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_9BjREE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_16.jpg",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "The emergence of concepts ",
+            "content": "<p>Dowinx has been committing to developing a multi-tasking chair that makes it easy for you to sit for a long time or take a break when you are tired. With that as a goal, we have been focusing on making chairs for about 15 years. Based on our expertise in the production of gaming chairs, we not only add features such as sports car design and ergonomic design, but also pay more attention to individualization.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        },
+        "image_ik4QpE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_16.jpg",
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center text-center",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "YOUR SATIFICATION ",
+            "content": "<p>Our company focuses on creating the best gaming chair with professional product lines and skilled technicians. With the purpose of leading a healthy working environment, Dowinx keeps crafting better products to improve people's sitting experience. Meanwhile we have set up warehouses overseas and service agencies in the USA, UK, AUS and INDIA to provide better customer service. We expect that it will bring you a great purchasing experience.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9BjREE",
+        "image_ik4QpE"
+      ],
+      "custom_css": [
+        ".section-blends {padding-bottom: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "spacing": "none"
+      }
+    },
+    "image_with_text_overlay_8DBy6P": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/7c0eae2652e0bc943a1dfe92a9ff7205_1.webp",
+        "mobile_image": "shopify:\/\/shop_images\/M_ad2dfd6c-7c0a-4e95-aed6-a22a7d4bb609.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "text_with_icons_macVwH": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_YhXVMB": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/download.png",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "",
+            "content": "<p>Born out of a shared passion for music with his son Robert, an emerging DJ\/music producer and quality products, Jonathan Levine envisioned headphones with both premium sound quality and elevated design that his son could use. While touring colleges, they came across a pair of WWII aviator headphones in a museum and could not help but notice how elegant and timeless the headphones looked. In that moment, Jonathan decided he wanted to design and build headphones that in 50 years would also stand the test of time.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_YhXVMB"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_JzXi3m": {
+      "type": "multi-column",
+      "blocks": {
+        "item_7yWTAd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LS-MB3004_2_868debb8-5270-427b-8bf4-a1c68c314e87.webp",
+            "column_size": "2",
+            "title": "Superior design and craftsmanship",
+            "heading_tag": "h3",
+            "content": "<p>Careful and intentional construction to create objects of lasting beauty.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        },
+        "item_LJ9MCH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/simple-series.webp",
+            "column_size": "4",
+            "title": "Premium materials",
+            "heading_tag": "h5",
+            "content": "<p>Only the finest materials - supporting comfort, aesthetics and functionality.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        },
+        "item_4D6UBr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/racing-series-6658.webp",
+            "column_size": "4",
+            "title": "Sophisticated technology",
+            "heading_tag": "h5",
+            "content": "<p>Designing the ultimate sound experience, while delivering best-in-class performance at every touch point.<\/p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link",
+            "link_url1": "",
+            "link_text1": "",
+            "link_style1": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_7yWTAd",
+        "item_LJ9MCH",
+        "item_4D6UBr"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "stack_on_mobile": false,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Product DNA",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "press_aH87RX": {
+      "type": "press",
+      "blocks": {
+        "quote_z4XcCn": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 65,
+            "author": "Jonathan Levine — Founder and CEO",
+            "content": "Designed to be modern yet timeless, our products utilize only the finest materials and are engineered to last, creating the perfect balance of aesthetics, strength, comfort and exceptional sound.",
+            "show_rating": false,
+            "rating": 0
+          }
+        }
+      },
+      "block_order": [
+        "quote_z4XcCn"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "content_size": "medium",
+        "background": "#b84a22",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "revealed_image_on_scroll_6Qwq6b": {
+      "type": "revealed-image-on-scroll",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/download_a68a1f6d-e2ef-483d-8430-865befdc0dc5.webp",
+        "mobile_image": "shopify:\/\/shop_images\/download_cb056a78-bc01-4bce-be84-15b6da43b10b.webp",
+        "subheading": "",
+        "title": "we believe mastery in never-ending exploration",
+        "background": "",
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#000000"
+      }
+    },
+    "multiple_images_with_text_c7PMXE": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_xaFGzV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retro-series.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_8peAwg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/simple-series.webp",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_mDGMzm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LS-MB30B09_8.webp",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_xaFGzV",
+        "item_8peAwg",
+        "item_mDGMzm"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "scrolling_text_7Xkhfj": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "text": "Our History",
+        "text_size": "large",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#f0f0f0",
+        "background_gradient": "",
+        "text_color": "#b84a22",
+        "text_gradient": ""
+      }
+    },
+    "text_with_icons_ibBFNa": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_7dLQ3E": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-pin",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Designed in NYC",
+            "content": "<p>Products designed and developed in New York City.<\/p>"
+          }
+        },
+        "item_Xi8zfb": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-earth",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free Shipping",
+            "content": "<p>Free worldwide shipping on all orders of $99<\/p>"
+          }
+        },
+        "item_3mXVXc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Support",
+            "content": "<p>Our support team is available 24\/7<\/p>"
+          }
+        },
+        "item_78AUx8": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Secure Payment",
+            "content": "<p>All payments are processed securely<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7dLQ3E",
+        "item_Xi8zfb",
+        "item_3mXVXc",
+        "item_78AUx8"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "small",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "timeline_78BGKU": {
+      "type": "timeline",
+      "blocks": {
+        "slide_awK3kd": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LS-MB3001_7.webp",
+            "navigation_label": "1953",
+            "subheading": "Story",
+            "title": "Master & Dynamic launches in NYC with a core collection of premium on, over and in-ear headphones.",
+            "content": ""
+          }
+        },
+        "slide_7UXx3N": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/retro-series.webp",
+            "navigation_label": "1960",
+            "subheading": "Story",
+            "title": "StoryWe introduce the MW07 True Wireless Earphones, built on cutting-edge technology and crafted with premium materials.",
+            "content": ""
+          }
+        },
+        "slide_iBB4BE": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/simple-series.webp",
+            "navigation_label": "1966",
+            "subheading": "Story",
+            "title": "Master & Dynamic partners with Automobili Lamborghini on a collection of high-performance sound tools.",
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_awK3kd",
+        "slide_7UXx3N",
+        "slide_iBB4BE"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_Fi3XRb": {
+      "type": "video",
+      "blocks": {
+        "play_6ejRem": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_XDgJMQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Master & Dynamic Talk Vision and Brand Roots",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_6ejRem",
+        "heading_XDgJMQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "md",
+        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "poster": "shopify:\/\/shop_images\/download_f45c961c-a941-4447-8c89-db43dedc59b1.webp",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "featured_collection_FMTTmJ": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "cute-series",
+        "products": [
+          "heavy-duty-series-mb30-black-pu",
+          "dowinx-simple-series-6657d-green",
+          "dowinx-premium-leather-gaming-chair-with-massage-cushion-and-footrest-office-chair-for-study-table-adjustable-swivel-chair-with-lumbar-support-headrest-ergonomic-design-for-office-or-gaming",
+          "dowinx-luxury-series-6689l-black",
+          "dowinx-classic-series-6657a-brown"
+        ],
+        "full_width": true,
+        "stack_products": false,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "You may also like",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "newsletter_raAQdU": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "image": "shopify:\/\/shop_images\/chair-luxury-2.jpg",
+        "show_icon": true,
+        "title": "Sign up to the newsletter.",
+        "content": "<p>Subscribe to get notified about new stories, news and personal offers.<\/p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "#b84a22",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "button_background": "#1a1a1a",
+        "button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_RJKTGH",
+    "rich_text_w3paRL",
+    "media_with_text_hqYQzz",
+    "image_with_text_overlay_8DBy6P",
+    "text_with_icons_macVwH",
+    "multi_column_JzXi3m",
+    "press_aH87RX",
+    "revealed_image_on_scroll_6Qwq6b",
+    "multiple_images_with_text_c7PMXE",
+    "scrolling_text_7Xkhfj",
+    "text_with_icons_ibBFNa",
+    "timeline_78BGKU",
+    "video_Fi3XRb",
+    "featured_collection_FMTTmJ",
+    "newsletter_raAQdU"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "image_with_text_overlay_eJK9dU": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_4pgHbC": {
+          "type": "heading",
+          "settings": {
+            "text": "Return & Refund",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_J86E63": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We pride ourselves in our product quality with strict quality control checks in place. To provide you with additional peace of mind, we also offer a comprehensive 30 Day Returns guarantee for each orders. Buy with confidence and enjoy a great shopping experience!<\/p>"
+          }
+        },
+        "button_wGjJjD": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "View warranty policy",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4pgHbC",
+        "richtext_J86E63",
+        "button_wGjJjD"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/warranty_1_1.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center-start sm:text-start",
+        "text_color": "#1a1a1a",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_JVpjx4": {
+      "type": "rich-text",
+      "blocks": {
+        "image_xawLGr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/warranty_3.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_ychMj8": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>Dowinx Return Policy<\/h2><h4>Dowinx Warranty StatementThe Warranty period is one year after delivery：<\/h4><p>Note: This Limited Warranty is valid only for chairs that you bought through authorized channels.Our authorized channels are the websites that are registered by the Dowinx group of companies and anystore registered in the name of a Dowinx entity on online marketplaces (Amazon, Newegg, Wayfair, etc). Regretfully, we can't determine the authenticity original condition of products sold through other channels. Hence, we can't provide warranty service for those products.<\/p><h4>What our limited warranty does not covers:<\/h4><ul><li>Dowinx’s warranty commitments do not cover claims resulting from:<\/li><li>Wear and tear, or due to the aging of materials<\/li><li>Minor deviations of the Products from images posted in the Stores or due to naturally occurring variations in the materials used or manual assembly of Products.<\/li><li>Improper assembly, use or care, contact with animals, or the site or environmental conditions (such as environments with high heat, high humidity, high salinity, or pollutant gases)<\/li><li>Use in anything other than a domestic or private setting.<\/li><li>Abuse, negligence, accident, fire or water damage, transportation by the customer, or other causes beyond our control<\/li><\/ul><h5>Please follow the Aftercare Guide and Assembly Guide to prevent your voiding of the Limited Warranty. These instructions were included in your product packaging and are available online at dowinx.com<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "image_xawLGr",
+        "richtext_ychMj8"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_7EX4hm": {
+      "type": "rich-text",
+      "blocks": {
+        "image_C8CaEg": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/warranty_4.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "richtext_hXA9tt": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2>Return & Refund Process<\/h2><h4>What our limited warranty does not covers:<\/h4><p>We hope you can like our chairs.If our chair does not meet your expectations,please do not return the goods privately.Before you make the final decision, don't forget that all our chairs are covered by our warranty, situations such as broken parts or failure of lifting can be solved through the free parts replacement service.<\/p><p>If you have any questions, please write to our customer support team via the support center . They will do their best to get you back to your game.In the unlikely event that you need to return a product, we invite you to review the following terms:<\/p><p><strong>Notes:<\/strong><\/p><p>All returns must be authorized by our Team via the Support Center(chair@dowinx.com). Returned items without an Return Merchandise Form (RMA) will not be accepted.<\/p><p>Please carefully follow our returns process to minimize any delays:<\/p><p>1. If your item is returnable (see above), please submit a ticket in our Support Center stating your:<\/p><p>Order Number<\/p><p>Product Name<\/p><p>Reason for Return<\/p><p>2. Our customer service team will respond to your request within 48 hours and provide you with a Return Merchandise Form (RMA) along with our return address.<\/p><p>3. Please return the item according to our instructions on the RMA form and send us return proof in the form of the tracking number and a valid return receipt.<\/p><p>4. Once we have received the returned item(s), we will email you and arrange an exchange or a refund within 3 days.<\/p><p>Kindly allow between 3-6 business days for our after sales team to process your request. After this, please note the refund times below:<\/p><p>For credit card refunds, please allow between 7-14 business days for the transaction to process.<\/p><p>For PayPal refunds, please allow up to 48 hours for the transaction to appear in your account.<\/p><p>For Wallet refunds , please allow 48 hours for your account to be updated.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "image_C8CaEg",
+        "richtext_hXA9tt"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "newsletter_gVAyez": {
+      "type": "newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "Newsletter",
+        "content": "<p>Write something about what your customers will receive by subscribing to your newsletter.<\/p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_eJK9dU",
+    "rich_text_JVpjx4",
+    "rich_text_7EX4hm",
+    "newsletter_gVAyez"
+  ]
+}

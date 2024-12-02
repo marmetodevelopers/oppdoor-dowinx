@@ -1,0 +1,330 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "image_with_text_overlay_9Kmtz4": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_RmwhMU": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_37JyGE": {
+          "type": "heading",
+          "settings": {
+            "text": "Becomes Dowinx Affiliate",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_WNhtjM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Earn a generous commission fee on each sale you send to Dowinx<\/p>"
+          }
+        },
+        "button_EqMh8b": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "lg",
+            "text": "Start now",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_RmwhMU",
+        "heading_37JyGE",
+        "richtext_WNhtjM",
+        "button_EqMh8b"
+      ],
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify:\/\/shop_images\/banner_b0dbdc2b-a48b-4010-a33d-da75dc8d3a26.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_pBUidB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8b9wQn": {
+          "type": "heading",
+          "settings": {
+            "text": "Dowinx Affiliate Program",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_jLAtYf": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Our affiliate program lets you earn money and rewards for promoting DOWINX through your channel, website, social accounts and more!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8b9wQn",
+        "richtext_jLAtYf"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_zMMxaX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6FCi3D": {
+          "type": "heading",
+          "settings": {
+            "text": "What is the Dowinx Affiliate Program?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_gjVaqq": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>For content creators of all social media platforms, we offer decent rewards to you for placing our product link on your social media platforms. Every single purchase made by customers via the link brings you commission!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_6FCi3D",
+        "richtext_gjVaqq"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_eUEXKA": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rmq8zK": {
+          "type": "heading",
+          "settings": {
+            "text": "How to become a Dowinx Affiliate?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rmq8zK"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "text_with_icons_TWmGVT": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_EBghEX": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/contact_1.png",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#9f160d",
+            "icon_color": "",
+            "title": "Sign up",
+            "content": "<p>Fill up your information in the form below, we will assess your application as soon as we can.<\/p>"
+          }
+        },
+        "item_n4MMqc": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/contact_2.png",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#9f160d",
+            "icon_color": "",
+            "title": "Place the product link",
+            "content": "<p>Insert our product link on your pages, make it as prominent as you can, as high level of visibility of the link helps a lot with converting the visitors into actual consumers. Additionally, our marketing team will provide professional help via statistics and targeting at highly potential consumers.<br\/>Follow-up marketing and re-marketing strategies will also be applied to achieve the best outcome.<\/p>"
+          }
+        },
+        "item_7EtFRV": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-coupon",
+            "custom_icon": "shopify:\/\/shop_images\/contact_3.png",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "#9f160d",
+            "icon_color": "",
+            "title": "Wait for our team to contact you",
+            "content": "<p>Once you are shortlisted as a qualified candidate,the team shall contact you via email, by then it's also your chance to propose personal requirements (if you have) about the program.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_EBghEX",
+        "item_n4MMqc",
+        "item_7EtFRV"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "accordion_content_xqGKfA": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_8qcGcQ": {
+          "type": "item",
+          "settings": {
+            "title": "How do I assess my qualification for the Affiliate program before I fill out the form?",
+            "content": "<p>Write to us and tell us how (which platforms) and where are you going to perform the program,  and the team will reply you with the answer.<\/p>",
+            "page": ""
+          }
+        },
+        "item_agqjBT": {
+          "type": "item",
+          "settings": {
+            "title": "Is ther any minimum requirements for the program?",
+            "content": "<p>We don't make specific requirements to how many followers you have, yet we do prefer influencers who actively create high quality content (as least with high resolution) and those who already owns a stable fan community, for live streamers, those with a clean facecam are prefered. Still, even if you are in a starting up stage of your influencer career, we’d also love to offer you the chance and wishfully, any help we could<\/p>",
+            "page": ""
+          }
+        },
+        "item_kKM6CB": {
+          "type": "item",
+          "settings": {
+            "title": "How long will the assess process usaually take?",
+            "content": "<p>Usually, shortlisted candidate will be contatcted within 2 weeks. However, during peak seasons, the estimated time might up to 3-4weeks.<\/p>",
+            "page": ""
+          }
+        },
+        "item_CKPMxW": {
+          "type": "item",
+          "settings": {
+            "title": "Is there a discount for purchases made through my affiliate link?",
+            "content": "<p>No specific discount will be attached to your affiliate link, yet, we do offer other promotion discounts like holiday sale or seasonal sale from time to time, usually, during these period of time, the convertion rate increases largely.<\/p>",
+            "page": ""
+          }
+        },
+        "item_WNtKmw": {
+          "type": "item",
+          "settings": {
+            "title": "Can I get a unique discount code for my fans or people in my online community?",
+            "content": "<p>We only offer unique discount for influencers located in America due to technical restrictions, email us to discuss further details about the code.<\/p>",
+            "page": ""
+          }
+        },
+        "item_Mmt63G": {
+          "type": "item",
+          "settings": {
+            "title": "How will I receieve my commission?",
+            "content": "<p>You shall receieve your commission on a monthly basis via PayPal, currently, we do not offer other payment options such as bank transfer or pay-in-cash of affiliate commissions. Please do allow the system sometime till the commission shows up in your account.<\/p>",
+            "page": ""
+          }
+        },
+        "item_YrqNLy": {
+          "type": "item",
+          "settings": {
+            "title": "AFFILIATE PARTNERSHIP BENEFITS",
+            "content": "<p>BENEFIT 1. High quality products<\/p><p>Most of our products are reviewed and highly recommended by famous gaming\/review\/news websites.<\/p><p>BENEFIT 2. Industry leading bonus Bonuses: You earn a commission based on the sales you generate. Our default commission rate is 8% for a single sale. The higher commission rate based on the further partnership with dowinx,contact us and we will assess your performance.<\/p><p>BENEFIT 3. First class conversion rate We have first class e-commerce conversion rate (5 times higher on average than competitors) as we are a trusted brand with thousands of positive user online reviews.<\/p><p>BENEFIT 4. Digital Remarketing Strategy\\nWe have spent heavily on digital remarketing advertisements by targeting visitors with our remarketing campaigns, reminding them to purchase even after they've left our site, which helps you significantly in closing the deal.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_8qcGcQ",
+        "item_agqjBT",
+        "item_kKM6CB",
+        "item_CKPMxW",
+        "item_WNtKmw",
+        "item_Mmt63G",
+        "item_YrqNLy"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Frequently Asked Questions",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "image_with_text_overlay_EVffWk": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify:\/\/shop_images\/contact_social.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_9Kmtz4",
+    "rich_text_pBUidB",
+    "rich_text_zMMxaX",
+    "rich_text_eUEXKA",
+    "text_with_icons_TWmGVT",
+    "accordion_content_xqGKfA",
+    "image_with_text_overlay_EVffWk"
+  ]
+}

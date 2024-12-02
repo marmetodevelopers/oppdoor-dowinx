@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "content_width": "80ch"
+      }
+    },
+    "rich_text_i6iRTM": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_MRBQpm": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>This privacy policy explains:<\/strong><\/p><p>1.How we collect, store, and use the Personal Information you provide through dowinx online and through telephone or e-mail communications you may have with us.<\/p><p>2.The choices available to you regarding dowinx use of the Personal Information you provide to us.<\/p><p>3.Your options regarding the collection, use, and disclosure of your personal information.<\/p><p><strong>Information Collection and Use<\/strong><\/p><p>We collect information from Site users in different ways:<\/p><p>1. Registration and Ordering:In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and\/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site.<\/p><p>2. Email Addresses:Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by dowinx is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.<\/p><p>3. Product Reviews:We ask for an email address along with the submission of all product reviews. Your email address will be kept private. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site.<\/p><p>4. Submit Your Real Photos\/Videos:One location on the site allow you to submit your real photos or videos for purposes including but not limited to: show your stories or photos to other people, or keep it as a souvenir.<\/p><p>5. Cookies and Other Technology:Like many sites, this Site uses cookies and web beacons (also known as clear GIF technology or \"action tags\") to speed up navigation, track site usage and recognize users and user access privileges.<\/p><p>6. Log Files:Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date\/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)<\/p><p><strong>How do I unsubscribe?<\/strong><\/p><p>You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logging in.<br\/><\/p><p><strong>Updates to This Policy<\/strong><\/p><p>To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please email us at <a href=\"mailto:support@dowinx.co.in\">support@dowinx.co.in <\/a>with any questions about the Privacy Policy.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_MRBQpm"
+      ],
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_i6iRTM"
+  ]
+}

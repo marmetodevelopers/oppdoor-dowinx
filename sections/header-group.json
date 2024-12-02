@@ -1,0 +1,116 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message": {
+          "type": "message",
+          "settings": {
+            "text": "Free standard shipping on all orders",
+            "url": ""
+          }
+        },
+        "message_pgWt7y": {
+          "type": "message",
+          "settings": {
+            "text": "FLAT 50% OFF SALE!",
+            "url": ""
+          }
+        },
+        "message_ADUB9d": {
+          "type": "message",
+          "settings": {
+            "text": "30 Days Free Replacement",
+            "url": ""
+          }
+        },
+        "message_7WNdth": {
+          "type": "message",
+          "settings": {
+            "text": "1 Year Warranty",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "message",
+        "message_pgWt7y",
+        "message_ADUB9d",
+        "message_7WNdth"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "autoplay": false,
+        "cycle_speed": 6,
+        "text_size": "text-xs",
+        "navigation_mode": "scrolling",
+        "scrolling_speed": 12,
+        "background": "#000000",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_BrpAJ4": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Shop now",
+            "layout": "horizontal",
+            "submenu_style": "bold_text",
+            "image_1": "shopify:\/\/shop_images\/1_568a23f5-c487-4ffd-a92c-99df4948dbd9.jpg",
+            "image_heading_1": "",
+            "image_link_1": "shopify:\/\/collections\/4d-armrest",
+            "image_text_color_1": "#ffffff",
+            "image_2": "shopify:\/\/shop_images\/3_0fc0d001-60c2-42d8-9639-7dc639cb1db1.jpg",
+            "image_heading_2": "",
+            "image_link_2": "shopify:\/\/collections\/new-series",
+            "image_text_color_2": "#ffffff",
+            "image_3": "shopify:\/\/shop_images\/2_88f5ca23-265f-411d-a688-9b5947dfae77.jpg",
+            "image_heading_3": "",
+            "image_link_3": "shopify:\/\/collections\/linked-armrest",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "rgba(0,0,0,0)",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "show"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_BrpAJ4"
+      ],
+      "settings": {
+        "enable_sticky": true,
+        "hide_on_scroll": false,
+        "logo": "shopify:\/\/shop_images\/logo_transparent.png",
+        "logo_max_width": 60,
+        "logo_mobile_max_width": 60,
+        "menu": "main-menu",
+        "sidebar_menu": "",
+        "secondary_menu": "",
+        "menu_open_trigger": "hover",
+        "opening_from": "left",
+        "layout": "logo_left_navigation_center",
+        "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
+        "show_country_flag": true,
+        "show_country_name": false,
+        "transparent_header_text_color": "#000000",
+        "reduce_padding": true,
+        "background_opacity": 100,
+        "background_blur_radius": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "newsletter": {
+          "type": "newsletter",
+          "settings": {
+            "image_width": 150,
+            "heading_size": "h3",
+            "title": "Sign up for news & updates",
+            "content": ""
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "title": "About",
+            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>",
+            "enable_follow_on_shop": true
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "links_h744DU": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
+        "text_6XHazd": {
+          "type": "text",
+          "settings": {
+            "title": "GET IN TOUCH WITH",
+            "content": "<p><strong>Support Email<\/strong>: <a href=\"mailto:support@dowinx.co.in\">support@dowinx.co.in<\/a><\/p><p><strong>Phone No<\/strong>: 8086228807<\/p><p><strong>Company Address India<\/strong>: Urban Vault 1515, 19th Main Rd, Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560034<\/p>",
+            "enable_follow_on_shop": true
+          }
+        }
+      },
+      "block_order": [
+        "newsletter",
+        "text",
+        "links",
+        "links_h744DU",
+        "text_6XHazd"
+      ],
+      "custom_css": [],
+      "settings": {
+        "show_social_media": true,
+        "show_payment_icons": true,
+        "show_country_selector": false,
+        "show_country_flag": false,
+        "show_country_name": false,
+        "show_locale_selector": false
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
