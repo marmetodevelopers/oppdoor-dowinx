@@ -413,6 +413,35 @@ Supported variables
             {%- render 'offer', block: block -%}
           {%- endif -%}
 
+        {% when 'assembly' %}
+
+        <div class="furniture-assembly-wrapper">
+  <!-- Checkbox and Label -->
+  <div class="assembly-info">
+    <input type="checkbox" id="add-assembly" checked>
+    <label for="add-assembly" class="assembly-label">
+      <strong>{{ section.settings.checkbox_label }}</strong> 
+      <span class="details-link">{{ section.settings.details_text }}</span>
+    </label>
+  </div>
+
+  <!-- Price and See More -->
+  <div class="price-and-more">
+    <span class="price">Price: {{ section.settings.price_value }}</span>
+    <span class="rating">
+      ★★★★★ ({{ section.settings.product_with_metafields.metafields.assembly.reviews_count | default: 20858 }})
+    </span>
+    <span class="see-more" onclick="toggleDetails()">{{ section.settings.see_more_text }}</span>
+  </div>
+
+  <!-- Service Details (Initially Hidden) -->
+  <div id="service-details" class="service-details">
+    {{ section.settings.product_with_metafields.metafields.assembly.service_details | default: "No additional details provided." }}
+  </div>
+</div>
+
+        
+
         {%- when 'share_buttons' -%}
           <div class="product-form__share">
             <div class="product-info__share-buttons">
