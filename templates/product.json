@@ -66,8 +66,8 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Add Furniture Assembly",
-            "content": "<p></p>{{ product.metafields.custom.service_details | metafield_tag }}",
-            "page": ""
+            "content": "<p></p><p>{{ product.metafields.custom.service_details | metafield_tag }}</p>",
+            "page": "{{ product.metafields.custom.service_details_page.value }}"
           }
         },
         "quantity_selector": {
