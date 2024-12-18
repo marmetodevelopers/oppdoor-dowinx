@@ -66,7 +66,7 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Add Furniture Assembly",
-            "content": "<p>hhh</p>",
+            "content": "<p></p>{{ product.metafields.custom.service_details | metafield_tag }}",
             "page": ""
           }
         },
