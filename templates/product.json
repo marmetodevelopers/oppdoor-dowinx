@@ -67,7 +67,7 @@
           "settings": {
             "title": "Add Furniture Assembly",
             "content": "<p></p>{{ product.metafields.custom.service_details | metafield_tag }}",
-            "page": "about-us"
+            "page": "assembly-guide"
           }
         },
         "quantity_selector": {
