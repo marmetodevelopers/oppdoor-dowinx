@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -53,6 +62,14 @@
             "size_chart_page": ""
           }
         },
+        "collapsible_text_n7JWMb": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Add Furniture Assembly",
+            "content": "<p>hhh</p>",
+            "page": ""
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -84,6 +101,7 @@
         "payment_terms",
         "description",
         "variant_picker",
+        "collapsible_text_n7JWMb",
         "quantity_selector",
         "buy_buttons",
         "share_buttons_cnNkrt"
@@ -122,8 +140,8 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "auto",
-        "video": "shopify:\/\/files\/videos\/5fce4d00665e4f2990701c9c5873c28d.mp4",
-        "external_video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video": "shopify://files/videos/5fce4d00665e4f2990701c9c5873c28d.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
@@ -143,7 +161,7 @@
             "icon_width": 48,
             "subheading": "",
             "title": "",
-            "content": "<h3><strong>Upgrade Your Comfort with Dowinx<\/strong><\/h3><p>Experience unparalleled comfort and support with Dowinx Gaming Chairs, designed for gamers and professionals alike. Featuring premium quality, ergonomic design, and innovative features like Massage Cushions, Leg Rest and 4D Armrests, Dowinx chairs are perfect for long hours of gaming or work.<\/p>",
+            "content": "<h3><strong>Upgrade Your Comfort with Dowinx</strong></h3><p>Experience unparalleled comfort and support with Dowinx Gaming Chairs, designed for gamers and professionals alike. Featuring premium quality, ergonomic design, and innovative features like Massage Cushions, Leg Rest and 4D Armrests, Dowinx chairs are perfect for long hours of gaming or work.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#f0f0f0",
@@ -170,70 +188,70 @@
           "type": "row",
           "settings": {
             "heading": "Brand :",
-            "value": "<p>{{ product.metafields.custom.brand.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.brand.value }}</p>"
           }
         },
         "row_dyaE83": {
           "type": "row",
           "settings": {
             "heading": "Colour :",
-            "value": "<p>{{ product.metafields.custom.color.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.color.value }}</p>"
           }
         },
         "row_3GgVhG": {
           "type": "row",
           "settings": {
             "heading": "Material :",
-            "value": "<p>{{ product.metafields.custom.material.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.material.value }}</p>"
           }
         },
         "row_JqF4pW": {
           "type": "row",
           "settings": {
             "heading": "Product Dimensions :",
-            "value": "<p>{{ product.metafields.custom.product_dimensions.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.product_dimensions.value }}</p>"
           }
         },
         "row_3YtD4q": {
           "type": "row",
           "settings": {
             "heading": "Size :",
-            "value": "<p>{{ product.metafields.custom.size.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.size.value }}</p>"
           }
         },
         "row_gRLMdU": {
           "type": "row",
           "settings": {
             "heading": "Item Weight :",
-            "value": "<p>{{ product.metafields.custom.item_weight.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.item_weight.value }}</p>"
           }
         },
         "row_MYQejq": {
           "type": "row",
           "settings": {
             "heading": "Included component",
-            "value": "<p>{{ product.metafields.custom.included_components.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.included_components.value }}</p>"
           }
         },
         "row_KTRyp3": {
           "type": "row",
           "settings": {
             "heading": "Style",
-            "value": "<p>{{ product.metafields.custom.style.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.style.value }}</p>"
           }
         },
         "row_UtVWfV": {
           "type": "row",
           "settings": {
             "heading": "Manufacturer :",
-            "value": "<p>{{ product.metafields.custom.manufacturer.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.manufacturer.value }}</p>"
           }
         },
         "row_BycQTU": {
           "type": "row",
           "settings": {
             "heading": "Assembly Required",
-            "value": "<p>{{ product.metafields.custom.assembly_required.value }}<\/p>"
+            "value": "<p>{{ product.metafields.custom.assembly_required.value }}</p>"
           }
         }
       },
@@ -253,7 +271,7 @@
         "full_width": true,
         "subheading": "",
         "title": "",
-        "content": "<h2>Product Specification<\/h2>",
+        "content": "<h2>Product Specification</h2>",
         "button_text": "",
         "button_url": "",
         "text_position": "start",

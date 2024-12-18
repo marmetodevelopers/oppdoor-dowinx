@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "page_width": 1300,
@@ -39,10 +48,10 @@
     "cart_icon": "shopping_cart",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "15000",
-    "social_facebook": "https:\/\/www.facebook.com\/DowinxChair",
-    "social_instagram": "https:\/\/www.instagram.com\/dowinx.official\/",
-    "social_youtube": "https:\/\/www.youtube.com\/@dowinxchair",
-    "favicon": "shopify:\/\/shop_images\/logo_32x32_993b6930-6f4c-403f-9a23-01973f735566.jpg",
+    "social_facebook": "https://www.facebook.com/DowinxChair",
+    "social_instagram": "https://www.instagram.com/dowinx.official/",
+    "social_youtube": "https://www.youtube.com/@dowinxchair",
+    "favicon": "shopify://shop_images/logo_32x32_993b6930-6f4c-403f-9a23-01973f735566.jpg",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []
